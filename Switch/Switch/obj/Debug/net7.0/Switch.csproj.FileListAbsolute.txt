@@ -1,0 +1,15 @@
+/Users/sainani/Projects/Switch/Switch/bin/Debug/net7.0/Switch
+/Users/sainani/Projects/Switch/Switch/bin/Debug/net7.0/Switch.deps.json
+/Users/sainani/Projects/Switch/Switch/bin/Debug/net7.0/Switch.runtimeconfig.json
+/Users/sainani/Projects/Switch/Switch/bin/Debug/net7.0/Switch.dll
+/Users/sainani/Projects/Switch/Switch/bin/Debug/net7.0/Switch.pdb
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.csproj.AssemblyReference.cache
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.AssemblyInfoInputs.cache
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.AssemblyInfo.cs
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.csproj.CoreCompileInputs.cache
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.dll
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/refint/Switch.dll
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.pdb
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/Switch.genruntimeconfig.cache
+/Users/sainani/Projects/Switch/Switch/obj/Debug/net7.0/ref/Switch.dll
